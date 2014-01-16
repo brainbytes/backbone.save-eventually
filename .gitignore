@@ -1,0 +1,6 @@
+.grunt
+.DS_Store
+node_modules/*
+_SpecRunner.html
+*.iml
+.idea/
